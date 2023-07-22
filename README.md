@@ -1,5 +1,5 @@
 <h1 align="center">It's Rama G</h1>
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Rama(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Rama(111|nd Li)|https://raymond.li)"/>
+
 
 
 
