@@ -1,7 +1,6 @@
 <h1 align="center">It's Rama G</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ramaalg/ramaalg/main/banner2.jpeg"> </div>
 <h3 align="center">An IT student & full-stack app developer-to-be..</h3>
-<img align="right" alt="Coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaalg&label=Profile%20views&color=0e75b6&style=flat" alt="ramaalg" /> </p>
 
