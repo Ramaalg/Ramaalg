@@ -1,5 +1,7 @@
 <h1 align="center">It's Rama G</h1>
-[<img src="https://raw.githubusercontent.com/Ramaalg/Ramaalg/master/banner2.jpeg" alt=" Hi! I'm (Rama (Ahmad|nd Alguthmi)|Rama G)" title=" Hi! I'm (Rama(Ahmad|nd Alguthmi)|Rama G)"/>]
+[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)" title="👋 Hi there! I'm (Raymo(111|nd Li)|https://raymond.li)"/>](https://raymond.li/)
+
+![visitors](https://vbr.wocr.tk/badge?page_id=Raymo111.Raymo111&color=00cf00)
 
 
 <h3 align="center">An IT student & full-stack app developer-to-be..</h3>
