@@ -1,5 +1,7 @@
 <h1 align="center">It's Rama G</h1>
-<div align="center"> <img src="https://raw.githubusercontent.com/ramaalg/ramaalg/main/banner2.jpeg"> </div>
+[<img src="https://raw.githubusercontent.com/Ramaalg/Ramaalg/master/banner2.jpeg" alt=" Hi! I'm (Rama (Ahmad|nd Alguthmi)|Rama G)" title=" Hi! I'm (Rama(Ahmad|nd Alguthmi)|Rama G)"/>]
+
+
 <h3 align="center">An IT student & full-stack app developer-to-be..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramaalg&label=Profile%20views&color=0e75b6&style=flat" alt="ramaalg" /> </p>
