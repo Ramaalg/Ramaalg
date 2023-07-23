@@ -1,4 +1,4 @@
-<h1 align="center">It's Rama G</h1>
+<h1 align="center">It's Rama </h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/ramaalg/ramaalg/main/banner2.jpeg"> </div>
 
 <h3 align="center">An IT student & full-stack app developer-to-be..</h3>
